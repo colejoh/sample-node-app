@@ -1,0 +1,24 @@
+{
+  "name": "sample-node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colejoh/sample-node-app.git"
+  },
+  "author": "Cole Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colejoh/sample-node-app/issues"
+  },
+  "homepage": "https://github.com/colejoh/sample-node-app#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
